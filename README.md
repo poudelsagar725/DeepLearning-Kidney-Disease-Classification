@@ -27,11 +27,11 @@ https://github.com/poudelsagar725/DeepLearning-Kidney-Disease-Classification
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n Swostika python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate Swostika 
 ```
 
 
@@ -181,4 +181,7 @@ DVC
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+
+
 
